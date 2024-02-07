@@ -1,0 +1,14 @@
+# Blender 4.0.1 MTL File: 'key.blend'
+# www.blender.org
+
+newmtl pipe_wrench
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd pipe_wrench_diff_4k.jpg
+map_Ns pipe_wrench_rough_4k.exr
+map_refl pipe_wrench_metal_4k.exr
+map_Bump -bm 1.000000 pipe_wrench_nor_gl_4k.exr

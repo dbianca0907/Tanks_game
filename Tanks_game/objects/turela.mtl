@@ -1,0 +1,14 @@
+# Blender 4.0.1 MTL File: 'turela.blend'
+# www.blender.org
+
+newmtl Sci-Fi_Panel_13
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Sci_Fi_Panel_13_basecolor.jpg
+map_Ns Sci_Fi_Panel_13_roughness.jpg
+map_refl Sci_Fi_Panel_13_metallic.jpg
+map_Ke Sci_Fi_Panel_13_emissive.jpg
+map_Bump -bm 1.000000 Sci_Fi_Panel_13_normal.jpg

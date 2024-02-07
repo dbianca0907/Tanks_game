@@ -1,0 +1,12 @@
+# Blender 4.0.1 MTL File: 'proiectil2.blend'
+# www.blender.org
+
+newmtl Purple_Fabric
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd fabric_97_basecolor-2K.png
+map_Ns fabric_97_roughness-2K.jpg

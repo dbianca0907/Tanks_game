@@ -1,0 +1,14 @@
+# Blender 4.0.1 MTL File: 'baza_enemy.blend'
+# www.blender.org
+
+newmtl Computer_Chip_Red
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Chip005_4K_Color.jpg
+map_Ns Chip005_4K_Roughness.jpg
+map_refl Chip005_4K_Metalness.jpg
+map_Bump -bm 1.000000 Chip005_4K_NormalGL.jpg
